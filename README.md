@@ -2,30 +2,33 @@
 
 
 
-####Example task 9a request:
+#### Example task 9a request:
 
-Method: POST
+###### Method: POST
 
-Body:
+###### Body:
 
-`{"num1": 1,
+``` 
+{"num1": 1,
 
  "num2": 2,
 
- "func": "mul"}`
+ "func": "mul"} 
+ ```
+##### Availible expressions:
+``` mul ```- multiplication
  
- mul- multiplication
+``` div ```- division
  
- div- division
+``` add ``` - addition
  
- add- addition
- 
- sub - subtraction
- 
- 
- 
+``` sub ``` - subtraction
  
  
- #####s16941
  
- #####16c
+ 
+ 
+ 
+ ###### s16941
+ 
+ ###### 16c
